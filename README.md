@@ -1,6 +1,6 @@
-# Aether Energy Monitor
+# iwindsakthi Energy Monitor
 
-A dark, responsive dashboard for ESP32 live energy measurements using HiveMQ Cloud MQTT, a Node.js server and browser WebSocket feed.
+The iwindsakthi Small Wind Turbine Manufacturing Unit's dark, responsive dashboard for ESP32 live energy measurements using HiveMQ Cloud MQTT, a Node.js server and browser WebSocket feed.
 
 ## Displayed measurements
 Voltage (V), current (A), power (W), total rotations, RPM, wind speed (m/s), PZEM status, last reading timestamp and a chart of recent readings.
